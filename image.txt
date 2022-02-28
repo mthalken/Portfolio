@@ -1,0 +1,4 @@
+Need images for
+flask
+D3.js
+jupyter notebook
