@@ -144,7 +144,7 @@ footer a {
 .container-color,
 .container-dark {
     padding: 100px 0;
-    color: #fff;
+    color: rgb(0, 0, 0);
 }
 
 .container-color {
@@ -152,7 +152,7 @@ footer a {
 }
 
 .container-dark {
-    background-color: #fff;
+    background-color: rgb(0, 0, 0);
 }
 
 .card-title {
